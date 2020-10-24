@@ -47,26 +47,7 @@ namespace FileLoaderConsoleApp
                 Console.WriteLine(e.Message);
             }
            
-            //ThreadPool.SetMaxThreads(12, 12);
-            //ThreadPool.GetMaxThreads(out i, out j);
-            //Console.WriteLine(i + " "+j);
-          /*  files.GetOrAdd("1", false);
-            files.GetOrAdd("2", false);
-            files.GetOrAdd("3", false);
-            files.GetOrAdd("4", false);
-            files.GetOrAdd("5", false);
-            files.GetOrAdd("6", false);
-            files.GetOrAdd("7", false);
-            files.GetOrAdd("8", false);
-            fileDownloader.AddFileToDownloadingQueue("1", "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "");
-            fileDownloader.AddFileToDownloadingQueue("2", "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", "");
-            fileDownloader.AddFileToDownloadingQueue("3", "https://sun9-65.userapi.com/9xopop1IzxomT2OxvBgOdLKRgL6j2S-SKo_PZm1XQA/jijvQwiDDXQ.jpg", "");
-            fileDownloader.AddFileToDownloadingQueue("4", "https://sun9-65.userapi.com/cDjwGmNpJCPQQmAIP_kUyR5PwjZRbotsKoMxiQ/zOKzI6VjgJk.jpg", "");
-            fileDownloader.AddFileToDownloadingQueue("5", "https://sun9-29.userapi.com/uqNtAZl9Q7CyZb9F4pUIAdfyXimXxPlC-CZHoA/Ta1ejaR_d24.jpg", "");
-            fileDownloader.AddFileToDownloadingQueue("6", "https://sun9-37.userapi.com/_B2ns0HjE5mLIi-mzfq1x3HZzSjDi0DXELY7eA/97eL_Gqz_Yk.jpg", "");
-            fileDownloader.AddFileToDownloadingQueue("7", "https://sun9-32.userapi.com/c854324/v854324801/2554d0/1W3Jkc7LjqI.jpg", "");
-            fileDownloader.AddFileToDownloadingQueue("8", "https://sun9-7.userapi.com/R0GxzIJyXKaHfyopBoM3ZC30fr8aFnRWrF8DJQ/N3fUF0lTgO8.jpg", "");
-         */
+           
             await Task.WhenAll(fileDownloader.tasks.ToArray());
             Console.WriteLine($"{files.Values.Where(v => v == true).Count()} downloaded successfully");
             Console.WriteLine($"{files.Values.Where(v => v == false).Count()} was failed");

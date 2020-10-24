@@ -37,18 +37,14 @@ namespace FileLoaderConsoleApp
         }
         public void AddFileToDownloadingQueue(string fileId, string url, string pathToSave)
         {
-            if (semaphore == null) semaphore = new SemaphoreSlim(_maxDegree, _maxDegree);
-            Task task = Task.Run(
-                () => proccessUrlAsync(url, fileId));
+            if (semaphore == null) 
+                semaphore = new SemaphoreSlim(_maxDegree, _maxDegree);
+            Task task = Task.Run(() => proccessUrlAsync(url, fileId));
             tasks.Add(task);
         }
         private async Task proccessUrlAsync(string url, string id)
         {
-           // Stopwatch stopwatch = new Stopwatch();
-           // stopwatch.Start();
             await semaphore.WaitAsync();
-            //Console.WriteLine(semaphore.CurrentCount + "count");
-            // Console.WriteLine($"{id} starts at {DateTime.Now.Minute}:{DateTime.Now.Second}:{DateTime.Now.Millisecond}......");
             try
             {
                 byte[] imageBytes = await _httpClient.GetByteArrayAsync(url);
@@ -60,7 +56,6 @@ namespace FileLoaderConsoleApp
                     dirInfo.Create();
                 }
                 string localFilename = Path.GetFileName(url);
-                // Console.WriteLine($"Write to file {url} ......");
                 string localPath = Path.Combine(documentsPath, "images", localFilename);
                 
                 File.WriteAllBytes(localPath, imageBytes);
@@ -74,17 +69,19 @@ namespace FileLoaderConsoleApp
             {
                 semaphore.Release();
             }
-           // Console.WriteLine($"{url} added ++++ {id} {stopwatch.Elapsed.TotalSeconds}");
         }
         public void SetDegreeOfParallelism(int degreeOfParallelism)
         {
-            if (_isWorking) throw new InvalidOperationException();
-            if (degreeOfParallelism <= 0) throw new ArgumentOutOfRangeException();
+            if (_isWorking) 
+                throw new InvalidOperationException();
+            if (degreeOfParallelism <= 0) 
+                throw new ArgumentOutOfRangeException();
             _maxDegree = degreeOfParallelism;
             _isWorking = true;
         }
+        public int GetDegreeOfParallelism() => _maxDegree;
 
-        
+
     }
     
 
