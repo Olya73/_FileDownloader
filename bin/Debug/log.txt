@@ -1,0 +1,388 @@
+24.10.2020 13:58:05 
+File 3 is failed with an exception:
+ Код состояния ответа не указывает на успешное выполнение: 403 (Forbidden). 
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 54 
+
+24.10.2020 15:23:16 
+File 6 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\SsiCbJREAps.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 2 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\jijvQwiDDXQ.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 4 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\f6GjC1nlh14.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 5 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\Ta1ejaR_d24.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 3 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\zOKzI6VjgJk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 9 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\2nQt7KI31Eg.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 7 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\R2d1GFhFbfM.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:17 
+File 8 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\4LpZLZ99bxw.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:18 
+File 10 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\97eL_Gqz_Yk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:18 
+File 11 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\W3ucyYw2-Y0.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:18 
+File 0 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\-2mmyTxTSGU.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:23:18 
+File 1 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\cdVMq1sDBGw.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 4 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\f6GjC1nlh14.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 2 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\jijvQwiDDXQ.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 10 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\97eL_Gqz_Yk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 5 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\Ta1ejaR_d24.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 7 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\R2d1GFhFbfM.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 6 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\SsiCbJREAps.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 11 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\W3ucyYw2-Y0.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:01 
+File 3 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\zOKzI6VjgJk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:02 
+File 8 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\4LpZLZ99bxw.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:02 
+File 9 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\2nQt7KI31Eg.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:03 
+File 0 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\-2mmyTxTSGU.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:26:03 
+File 1 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\cdVMq1sDBGw.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:27:01 
+File 5 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\Ta1ejaR_d24.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:27:01 
+File 4 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\zOKzI6VjgJk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:27:01 
+File 3 is failed with an exception:
+ Код состояния ответа не указывает на успешное выполнение: 403 (Forbidden). 
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 54 
+
+24.10.2020 15:27:02 
+File 8 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\N3fUF0lTgO8.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:27:02 
+File 6 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\97eL_Gqz_Yk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:27:03 
+File 7 is failed with an exception:
+ Не удалось найти часть пути "C:\pictures\1W3Jkc7LjqI.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:28:14 
+File 3 is failed with an exception:
+ Код состояния ответа не указывает на успешное выполнение: 403 (Forbidden). 
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 54 
+
+24.10.2020 15:28:15 
+File 6 is failed with an exception:
+ Не удалось найти часть пути "C:\Users\User\Documents\pictures\97eL_Gqz_Yk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:28:15 
+File 5 is failed with an exception:
+ Не удалось найти часть пути "C:\Users\User\Documents\pictures\Ta1ejaR_d24.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:28:15 
+File 8 is failed with an exception:
+ Не удалось найти часть пути "C:\Users\User\Documents\pictures\N3fUF0lTgO8.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:28:15 
+File 4 is failed with an exception:
+ Не удалось найти часть пути "C:\Users\User\Documents\pictures\zOKzI6VjgJk.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:28:16 
+File 7 is failed with an exception:
+ Не удалось найти часть пути "C:\Users\User\Documents\pictures\1W3Jkc7LjqI.jpg". 
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   в System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 60 
+
+24.10.2020 15:28:34 
+File 3 is failed with an exception:
+ Код состояния ответа не указывает на успешное выполнение: 403 (Forbidden). 
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 54 
+
+24.10.2020 15:29:08 
+File 3 is failed with an exception:
+ Код состояния ответа не указывает на успешное выполнение: 403 (Forbidden). 
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 54 
+
+24.10.2020 15:34:16 
+File 3 is failed with an exception:
+ Код состояния ответа не указывает на успешное выполнение: 403 (Forbidden). 
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   в FileLoaderConsoleApp.FileDownloader.<proccessUrlAsync>d__15.MoveNext() в C:\Users\User\source\repos\FileLoaderConsoleApp\FileDownloader.cs:строка 54 
+

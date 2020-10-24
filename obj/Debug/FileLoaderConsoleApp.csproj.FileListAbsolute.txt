@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\FileLoaderConsoleApp\bin\Debug\FileLoaderConsoleApp.exe.config
+C:\Users\User\source\repos\FileLoaderConsoleApp\bin\Debug\FileLoaderConsoleApp.exe
+C:\Users\User\source\repos\FileLoaderConsoleApp\bin\Debug\FileLoaderConsoleApp.pdb
+C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.exe
+C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.pdb
